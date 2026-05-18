@@ -17,7 +17,7 @@ timezone:
 title: RPS Engenharia Insights
 tagline: Energia, Data Centers e Infraestrutura
 url: "https://insights.rpsengenharia.com"
-url: ""
+baseurl: ""
 
 github:
   username: github_username # change to your GitHub username
