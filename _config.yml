@@ -21,8 +21,8 @@ baseurl: ""
 github:
   username: rodolfoprezia
 
-twitter:
-  username:
+#twitter:
+#  username:
     # change to your Twitter username
 
 social:
