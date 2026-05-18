@@ -1,20 +1,26 @@
 ---
-title: "A decisão de construir um data center começa no “day after”."
+title: "A decisão de construir um data center começa no 'day after'"
 date: 2026-05-18 18:00:00 -0300
-categories: [Data Center, Energia]
-tags: [REDATA, Infraestrutura, Mercado]
+categories: [Data Center, Estratégia]
+tags: [Data Center, Infraestrutura, Operação, Eficiência]
 
 image:
-  path: /assets/img/dayafter.jpg
+  path: /assets/img/dayafter.png
 ---
 
-O crescimento dos Data Centers no Brasil pode gerar impactos relevantes sobre infraestrutura elétrica, mercado livre de energia e expansão da transmissão.
+Quando se fala em um novo Data Center, normalmente a discussão começa por localização, disponibilidade de energia, conectividade, CAPEX e prazo de implantação.
 
-Entre os fatores mais relevantes:
+Mas uma decisão crítica costuma ser negligenciada: o que acontece no dia seguinte ao início da operação.
 
-- crescimento acelerado de carga
-- busca por energia renovável
-- pressão sobre infraestrutura elétrica
-- novas oportunidades para eficiência energética
+O "day after" define fatores que impactam diretamente o desempenho e a viabilidade do empreendimento:
 
-Este é o primeiro artigo publicado no portal RPS Engenharia Insights.
+- operação e manutenção
+- eficiência energética
+- escalabilidade
+- custos recorrentes
+- confiabilidade
+- gestão da infraestrutura
+
+Projetos bem-sucedidos não terminam na entrega da obra. Eles começam a ser testados no primeiro dia de operação.
+
+📄 [Baixar versão completa em PDF](/assets/pdf/decisao-data-center-day-after.pdf)
