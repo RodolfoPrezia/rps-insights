@@ -26,4 +26,4 @@ O day after define fatores que impactam diretamente o sucesso do empreendimento:
 - confiabilidade
 - custos recorrentes
 
-
+📄 [Baixar versão completa em PDF](/assets/pdf/day-after-data-center.pdf)
