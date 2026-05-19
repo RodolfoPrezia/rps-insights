@@ -1,4 +1,5 @@
 # The Site Configuration
+theme: jekyll-theme-chirpy
 
 # The language of the webpage
 lang: en
