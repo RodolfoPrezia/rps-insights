@@ -12,7 +12,7 @@ tags:
   - Operacao
 ---
 
-
+![Day After](/assets/img/dayafter.png)
 
 Quando se fala em um novo Data Center, normalmente a discussão começa por localização, disponibilidade de energia, conectividade e infraestrutura.
 
@@ -26,4 +26,4 @@ O day after define fatores que impactam diretamente o sucesso do empreendimento:
 - confiabilidade
 - custos recorrentes
 
-📄 [Baixar versão completa em PDF](/assets/pdf/decisao-data-center-day-after.pdf)
+
