@@ -18,7 +18,7 @@ Quando se fala em um novo Data Center, normalmente a discussão começa por loca
 
 Mas uma decisão crítica costuma ser negligenciada: o que acontece no dia seguinte ao início da operação.
 
-O day after define fatores que impactam diretamente o sucesso do empreendimento:
+O 'day after' define fatores que impactam diretamente o sucesso do empreendimento:
 
 - operação e manutenção
 - eficiência energética
