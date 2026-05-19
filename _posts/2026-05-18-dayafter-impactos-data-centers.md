@@ -10,20 +10,20 @@ tags:
   - Data Center
   - Infraestrutura
   - Operacao
-
-image:
-  path: /assets/img/dayafter.png
-  alt: Day After Data Center
-
 ---
 
-Quando se fala em um novo Data Center, normalmente a discussão começa por localização, disponibilidade de energia e infraestrutura.
+![Day After](/assets/img/dayafter.png)
 
-Mas a decisão crítica costuma aparecer no day after.
+Quando se fala em um novo Data Center, normalmente a discussão começa por localização, disponibilidade de energia, conectividade e infraestrutura.
+
+Mas uma decisão crítica costuma ser negligenciada: o que acontece no dia seguinte ao início da operação.
+
+O day after define fatores que impactam diretamente o sucesso do empreendimento:
 
 - operação e manutenção
 - eficiência energética
 - escalabilidade
 - confiabilidade
+- custos recorrentes
 
 📄 [Baixar versão completa em PDF](/assets/pdf/decisao-data-center-day-after.pdf)
