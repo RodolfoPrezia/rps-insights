@@ -1,5 +1,5 @@
 ---
-title: "A decisão de construir um data center começa no day after"
+title: A decisão de construir um data center começa no 'day after'
 date: 2026-05-18 18:00:00 -0300
 
 categories:
