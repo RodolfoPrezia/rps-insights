@@ -1,6 +1,6 @@
 ---
 title: Comprar equipamentos para um data center não é só ir ao mercado
-date: 2026-05-21 12:00:00 -0300
+date: 2026-05-21 10:00:00 -0300
 
 categories:
   - Data Center
