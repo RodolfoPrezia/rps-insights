@@ -14,7 +14,7 @@ tags:
   - Comissionamento
 ---
 
-![Aquisição de Equipamentos](/assets/img/aquisição-equipamentos-data-center.png)
+![Aquisição de Equipamentos](/assets/img/aquisicao-equipamentos-data-center.png)
 
 Comprar equipamentos para um data center parece simples quando o projeto está pronto e a verba aprovada.  
 Mas, na prática, essa é uma etapa que define **prazo, operação, desempenho, custo recorrente e confiabilidade**.
