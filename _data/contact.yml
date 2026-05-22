@@ -15,7 +15,7 @@
 #  noblank: true
 - type: page
   icon: 'fa-solid fa-house-signal'
-  url: 'http://rpsengenharia.com/'   # Uncomment and complete the url below to enable more contact options
+  url: 'https://rpsengenharia.com/'   # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
