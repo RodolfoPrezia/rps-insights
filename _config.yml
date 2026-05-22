@@ -17,13 +17,13 @@ tagline: Energia, Data Centers e Infraestrutura
 url: "https://insights.rpsengenharia.com"
 baseurl: ""
 
-github:
-  username: rodolfoprezia
+# github:
+#   username: rodolfoprezia
 
 social:
   name: RPS Engenharia
   email: contato@rpsengenharia.com
-  fediverse_handle: ""
+  fediverse_handle: "http://rpsengenharia.com/"
   links:
     - https://www.linkedin.com/company/rpsengenharia/
 
